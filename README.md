@@ -55,15 +55,3 @@
 
 
 
-
-[htb]: https://hackthebox.eu
-[website]: https://dipanjanpanja.in/
-[twitter]: https://twitter.com/dipanjanpanja6
-[youtube]: https://youtube.com/dipanjanpanja6
-[instagram]: https://instagram.com/dipanjanpanja6
-[linkedin]: https://linkedin.com/in/dipanjanpanja6
-[discord]: https://discord.gg/HqFzbj8
-[stackoverflow]: https://stackoverflow.com/users/11622707/dipanjan-panja?tab=profile
-
-
-
