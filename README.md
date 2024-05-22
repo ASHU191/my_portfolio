@@ -1,4 +1,4 @@
-![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
+
 
 ### Hi there, I'm M Arsalan Aftab  👋
 
@@ -47,10 +47,13 @@
 <br />
 
 ### Stats and others:
-![Github Stats](https://github-readme-stats.dipanjanpanja6.vercel.app/api?username=dipanjanpanja6&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=issues)
+
+
 ![Top Langs](https://github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)
+
+
+
 
 
 [htb]: https://hackthebox.eu
@@ -61,4 +64,6 @@
 [linkedin]: https://linkedin.com/in/dipanjanpanja6
 [discord]: https://discord.gg/HqFzbj8
 [stackoverflow]: https://stackoverflow.com/users/11622707/dipanjan-panja?tab=profile
+
+
 
